@@ -2,6 +2,9 @@
 
 Welcome to my personal portfolio website! This project showcases my work, skills, and background as a passionate developer. It's built using **HTML**, **CSS**, and **JavaScript**, with a focus on clean design, responsiveness, and interactivity.
 
+## 🔗 Live Demo
+
+👉 [View Live Site](https://mohanram-portfolio.netlify.app/)
 
 
 ## 📸 Features
